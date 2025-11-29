@@ -2,8 +2,9 @@
 Cybersecurity Analyst | Blue Team | Incident Response | Linux Security | SIEM/EDR (Wazuh)
 
 Construyo laboratorios de ciberseguridad, analizo incidentes reales, fortalezco sistemas Linux y desarrollo herramientas defensivas orientadas a SOC, Blue Team e Infraestructura Segura. Mi enfoque es práctico, técnico y basado en marcos como MITRE ATT&CK, NIST CSF e ISO 27001.
-🔐 Lo que hago
 
+
+🔐 Lo que hago
 Detección y análisis de intrusiones
 
 Respuesta a incidentes en entornos Linux
@@ -17,6 +18,7 @@ Análisis de logs y forense en vivo
 Scripts Bash para automatizar seguridad
 
 Auditoría de red y servicios expuestos
+
 
 🚀 Proyectos clave
 • Live Incident Response – Servidor Linux
@@ -38,6 +40,7 @@ Automatización de análisis, integridad de sistemas y vigilancia activa.
 🛠️ Tecnologías y herramientas
 
 Linux · Wazuh · MITRE ATT&CK · Nmap · Nessus · Wireshark · Burp Suite · Metasploit · SQLmap · UFW · Fail2ban · FTK Imager · Autopsy · Bash
+
 
 📫 Contacto
 
